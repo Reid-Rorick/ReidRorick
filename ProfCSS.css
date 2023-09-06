@@ -1,0 +1,44 @@
+﻿body
+{
+}
+span
+{
+    font-weight:bold
+}
+/*#horLine
+{
+    background-color:red;
+    
+}*/
+/*.hr-containter {
+    width: 25%;*/ /* Adjust the width as needed */
+    /*margin: 0 auto;
+}*/
+.redHor {
+    border: none;
+    border-top: 3px solid black;
+    width: 98%;
+    float:left;
+    margin:0;
+    padding:0;
+    /*border:1px;*/
+}
+.titles{
+    margin:0;
+    padding: 0 0 0 20px
+}
+.secondTitle {
+    margin: 0;
+    float: left;
+}
+.titleDate {
+    float: right !important;
+    margin: 0 30px 0 0;
+}
+.content{
+    clear:left;
+    margin:0;
+}
+.list{
+    margin:0;
+}
